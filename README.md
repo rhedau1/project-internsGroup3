@@ -3,8 +3,8 @@
 ## Open to Intern Project Requirement
 
 # Members
-Rahul Hedau
-Vipul Vijayvargiya
+- Rahul Hedau
+- Vipul Vijayvargiya
 
 ### Key points
 - Create a group database `groupXDatabase`. You can clean the db you previously used and resue that.
